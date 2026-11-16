@@ -12,3 +12,7 @@
 git clone https://github.com/davidoh-arch/work_1st.git
 cd work_1st
 ```
+
+## 라이선스
+
+[MIT License](LICENSE)
